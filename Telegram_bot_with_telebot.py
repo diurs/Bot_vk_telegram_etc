@@ -6,8 +6,7 @@ import telebot
 #apihelper.proxy = {'https':'socks5://userproxy:password@proxy_address:port'}
 #apihelper.proxy = {'https':'socks5h://userproxy:password@proxy_address:port'}
 
-bot = telebot.TeleBot('...'
-)
+bot = telebot.TeleBot('...')
 
 @bot.message_handler(content_types=['text'])
 
