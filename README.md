@@ -13,3 +13,6 @@ bot_with_good_dic.py repeats the words you wrote
 ## A working telegram bot skeleton written using telebot.
 
 Based on it, you can create your own bots
+
+Telegram_bot_with_telebot_2.py 
+The bot answers simple questions
