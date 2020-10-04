@@ -1,4 +1,4 @@
-# bots for social networks
+# Bots for social networks
 
 ##  VK bot with a schedule of pairs of any university course. 
 
